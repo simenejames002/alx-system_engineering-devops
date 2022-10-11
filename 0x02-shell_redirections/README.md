@@ -1,1 +1,1 @@
-learning about shell input/output redirection
+learning about shell input/output redirection and filter 
